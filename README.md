@@ -1,3 +1,3 @@
 - Currently in UBC Bachelor of Arts Computer Science program
-- On the software sub-team for @UBC-Thunderbots
+- On the software sub-team for UBC Thunderbots
 - In the Maple Bacon club
